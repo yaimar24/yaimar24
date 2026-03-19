@@ -31,11 +31,6 @@ He trabajado con las siguientes tecnologías para construir desde interfaces din
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&text_color=888888&icon_color=0078D4" alt="Estadísticas de GitHub" />
-</p>
 
 ---
 
