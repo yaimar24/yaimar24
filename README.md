@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<!--
-**yaimar24/yaimar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,angular,dotnet,postgres,azure" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Angular-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<br>
+
+<p align="center">
+  ⚡ Fullstack Developer | 🚀 Scalable Architectures | ☁️ Cloud Solutions
+</p>
