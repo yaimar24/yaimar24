@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Me especializo en el diseño y desarrollo de arquitecturas robustas, integraciones de sistemas y soluciones tanto cloud como on-premise. Me apasiona transformar la lógica compleja (como flujos transaccionales o pasarelas de pago) en aplicaciones eficientes, escalables y fáciles de mantener.
+Me especializo en el diseño y desarrollo de arquitecturas robustas, integraciones de sistemas y soluciones tanto cloud como on-premise. Me apasiona transformar la lógica compleja  en aplicaciones eficientes, escalables y mantenibles.
 
 * 🏗️ **Enfoque:** Patrones de arquitectura de software, orquestación de backend y optimización de bases de datos.
 * 💻 **Desarrollo:** Creación de ecosistemas seguros utilizando tecnologías y frameworks modernos.
