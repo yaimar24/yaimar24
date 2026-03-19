@@ -39,8 +39,8 @@ He trabajado con las siguientes tecnologías para construir desde interfaces din
 ¿Tienes un proyecto en mente o quieres hablar sobre arquitectura de software? ¡Escríbeme!
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaimar096@gmail.com&su=Hola%20Yaimar&body=Quiero%20contactarte%20por%20tu%20perfil%20de%20GitHub"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaimar096@gmail.com&su=Interés%20en%20colaboración%20%7C%20Perfil%20GitHub&body=Hola%20Yaimar,%0A%0AHe%20estado%20revisando%20tu%20perfil%20de%20GitHub%20y%20me%20pareció%20muy%20interesante%20tu%20experiencia%20en%20arquitectura%20de%20software%20y%20desarrollo%20fullstack.%0A%0AMe%20gustaría%20conversar%20contigo%20sobre%20una%20posible%20colaboración%20/portunidad.%0A%0AQuedo%20atento.%0A%0ASaludos,"
      target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por Gmail"/>
+    <img src="https://img.shields.io/badge/📧%20Contactar%20por%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por Gmail"/>
   </a>
 </p>
