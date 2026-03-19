@@ -1,48 +1,62 @@
-# ⚡ Fullstack Developer & System Architect
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Fullstack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35&overlay=kmm" width="100%"/>
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Location-Colombia-yellow?style=flat-square&logo=googlemaps&logoColor=white">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=⚡+Building+Scalable+Architectures;☁️+Cloud+Solutions+Expert;🚀+Code+Rain+Incoming...;Innovando+desde+Barranquilla" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ My Tech Ecosystem
+## 🌧️ My Tech Rain [3D Mode]
 
-<table border="0">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,angular,dotnet,postgres,azure&theme=dark" />
+  </a>
+</p>
+
+<table align="center" border="0" style="border-collapse: collapse;">
  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/Backend%20Core-Node.js%20%7C%20NestJS-green?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Frontend%20Hub-React%20%7C%20Angular-blue?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </td>
  </tr>
  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Database%20Level-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
  </tr>
- <tr>
-    <td><b>Cloud & DB</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Cloud%20Infra-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     </td>
  </tr>
 </table>
 
 <br/>
 
-### 📊 Github Stats
+## 📊 Live System Metrics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</p>
