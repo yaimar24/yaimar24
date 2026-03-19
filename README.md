@@ -10,7 +10,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Especialista en **Arquitectura de Sistemas** y desarrollo **Fullstack**. Mi enfoque principal es construir soluciones escalables, seguras y de alto rendimiento, con especial énfasis en ecosistemas financieros y transaccionales.
+Desarrollador de software con experiencia en desarrollo Fullstack, arquitecturas escalables y soluciones cloud, así como sistemas internos on-premise. Apasionado por crear aplicaciones eficientes, mantenibles y seguras utilizando tecnologías modernas.
+
+
 
 * 🌍 Ubicado en **Colombia** 🇨🇴
 
@@ -41,16 +43,6 @@ Especialista en **Arquitectura de Sistemas** y desarrollo **Fullstack**. Mi enfo
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
-
-## 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaimar24&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
----
 
 ## 📬 Contacto & Redes
 
